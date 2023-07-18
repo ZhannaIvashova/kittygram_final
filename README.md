@@ -3,14 +3,14 @@
 ## Описание
 *Этот проект даст пользователям возможность создать учетную запись, публиковать фотографии своих питомцев, смотреть фотографии котиков других пользователей.*
 ## Технологии
-Python 3.9
-Django 3.2.3
-DjangoRestFramework 3.12.4
-PostgreSQL
-Nginx
-Node.js
-Docker
-CI/CD
+- Python 3.9
+- Django 3.2.3
+- DjangoRestFramework 3.12.4
+- PostgreSQL
+- Nginx
+- Node.js
+- Docker
+- CI/CD
 ## Ссылки на развернутые приложения
 - https://kittygramproj.hopto.org/
 - https://taskiiii.hopto.org/
